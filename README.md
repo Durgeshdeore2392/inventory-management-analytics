@@ -215,3 +215,6 @@ tests/test_inventory.py::test_classify_stock_level PASSED
 ## 📜 10. License
 
 Distributed under the MIT License. See `LICENSE` for details.
+
+## link
+https://inventory-management-analytics-ktjfstbpkxxemhhwhp2nvi.streamlit.app/
