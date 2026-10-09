@@ -1,0 +1,517 @@
+product_id,sku,product_name,category,supplier,unit_cost,selling_price,current_stock,reorder_point,min_order_qty,supplier_lead_time_days
+1,ELE-0001,Portable Powerbank Mod-535,Electronics,Nexus Mercantile Co.,272.61,393.54,34,9,29,6
+2,ELE-0002,4K Monitor Mod-761,Electronics,GlobalTech Distributing,436.7,807.66,13,6,39,3
+3,ELE-0003,Smart Watch Mod-352,Electronics,Prime Source International,136.72,234.76,293,173,191,18
+4,ELE-0004,4K Monitor Mod-975,Electronics,Summit Trading Group,442.59,721.45,7,6,20,11
+5,ELE-0005,Mechanical Keyboard Mod-700,Electronics,Apex Supply Chain Solutions,178.35,242.48,0,21,44,9
+6,ELE-0006,Bluetooth Speaker Mod-134,Electronics,Vanguard Components Inc.,122.38,213.86,101,41,67,12
+7,ELE-0007,Gaming Mouse Mod-829,Electronics,Apex Supply Chain Solutions,182.66,348.15,45,41,51,16
+8,ELE-0008,HD Webcam Mod-801,Electronics,Nexus Mercantile Co.,381.28,685.69,101,54,72,15
+9,ELE-0009,Wireless Earbuds Mod-956,Electronics,Summit Trading Group,195.14,309.67,17,27,26,21
+10,ELE-0010,4K Monitor Mod-518,Electronics,Vanguard Components Inc.,275.83,525.67,29,54,99,11
+11,ELE-0011,Gaming Mouse Mod-132,Electronics,Summit Trading Group,145.45,224.74,56,20,76,5
+12,ELE-0012,USB-C Hub Mod-561,Electronics,Nordic Logistics & Trading,344.27,580.7,78,36,64,11
+13,ELE-0013,Noise-Canceling Headphones Mod-653,Electronics,Nordic Logistics & Trading,21.89,37.91,0,24,66,7
+14,ELE-0014,Mechanical Keyboard Mod-624,Electronics,Summit Trading Group,136.07,196.86,6,6,20,8
+15,ELE-0015,Mechanical Keyboard Mod-897,Electronics,Atlas Cargo & Imports,61.96,96.89,21,5,20,15
+16,ELE-0016,Portable Powerbank Mod-809,Electronics,Nexus Mercantile Co.,244.07,400.49,82,39,46,17
+17,ELE-0017,Bluetooth Speaker Mod-332,Electronics,Precision Dynamics Ltd.,168.72,326.15,16,2,20,4
+18,ELE-0018,USB-C Hub Mod-724,Electronics,Nexus Mercantile Co.,24.3,41.69,16,11,29,7
+19,ELE-0019,Wireless Earbuds Mod-502,Electronics,Apex Supply Chain Solutions,242.67,392.8,56,48,73,13
+20,ELE-0020,Wireless Earbuds Mod-866,Electronics,Horizon Industrial Corp.,170.56,294.96,17,62,68,18
+21,ELE-0021,HD Webcam Mod-223,Electronics,Horizon Industrial Corp.,315.55,588.51,45,11,42,5
+22,ELE-0022,Mechanical Keyboard Mod-963,Electronics,Summit Trading Group,85.07,150.11,80,15,100,3
+23,ELE-0023,HD Webcam Mod-572,Electronics,Apex Supply Chain Solutions,416.71,781.92,86,71,78,18
+24,ELE-0024,Wireless Earbuds Mod-101,Electronics,Vanguard Components Inc.,49.15,92.81,0,6,20,11
+25,ELE-0025,4K Monitor Mod-915,Electronics,Nordic Logistics & Trading,386.5,615.58,13,14,20,19
+26,ELE-0026,Smart Watch Mod-203,Electronics,Precision Dynamics Ltd.,264.66,416.41,34,15,20,20
+27,ELE-0027,Gaming Mouse Mod-805,Electronics,Horizon Industrial Corp.,206.2,401.4,31,21,26,16
+28,ELE-0028,Mechanical Keyboard Mod-603,Electronics,Nexus Mercantile Co.,383.36,668.8,60,35,32,21
+29,ELE-0029,Smart Watch Mod-849,Electronics,Horizon Industrial Corp.,440.67,723.6,10,2,20,3
+30,ELE-0030,Wireless Earbuds Mod-552,Electronics,Nordic Logistics & Trading,260.83,472.4,444,288,359,16
+31,ELE-0031,4K Monitor Mod-991,Electronics,Prime Source International,429.26,664.69,30,12,71,3
+32,ELE-0032,USB-C Hub Mod-260,Electronics,Nordic Logistics & Trading,82.92,139.64,0,6,20,10
+33,ELE-0033,Gaming Mouse Mod-387,Electronics,Horizon Industrial Corp.,166.52,250.2,0,26,51,10
+34,ELE-0034,Smart Watch Mod-275,Electronics,Summit Trading Group,137.77,252.89,0,11,20,15
+35,ELE-0035,Portable Powerbank Mod-924,Electronics,Precision Dynamics Ltd.,360.85,627.87,113,63,89,14
+36,ELE-0036,Gaming Mouse Mod-933,Electronics,Summit Trading Group,305.04,471.86,82,99,104,19
+37,ELE-0037,Smart Watch Mod-882,Electronics,Horizon Industrial Corp.,245.39,379.37,12,5,20,14
+38,ELE-0038,Mechanical Keyboard Mod-873,Electronics,Precision Dynamics Ltd.,189.82,335.93,263,153,152,20
+39,ELE-0039,4K Monitor Mod-756,Electronics,Nexus Mercantile Co.,127.71,206.05,178,71,127,11
+40,ELE-0040,Wireless Earbuds Mod-157,Electronics,Atlas Cargo & Imports,77.15,115.74,43,42,82,10
+41,ELE-0041,Wireless Earbuds Mod-371,Electronics,Summit Trading Group,298.44,480.91,39,26,28,18
+42,ELE-0042,Smart Watch Mod-796,Electronics,GlobalTech Distributing,49.62,76.26,19,5,20,18
+43,ELE-0043,USB-C Hub Mod-650,Electronics,Precision Dynamics Ltd.,84.56,136.17,21,27,74,7
+44,ELE-0044,Mechanical Keyboard Mod-322,Electronics,Atlas Cargo & Imports,284.63,470.18,10,5,20,6
+45,ELE-0045,Portable Powerbank Mod-357,Electronics,Vanguard Components Inc.,391.3,677.67,17,3,20,5
+46,ELE-0046,Wireless Earbuds Mod-790,Electronics,GlobalTech Distributing,284.67,524.44,64,32,41,15
+47,ELE-0047,Gaming Mouse Mod-352,Electronics,Nordic Logistics & Trading,281.27,436.51,90,35,56,12
+48,ELE-0048,Gaming Mouse Mod-214,Electronics,Prime Source International,227.25,401.26,44,30,100,6
+49,ELE-0049,HD Webcam Mod-775,Electronics,Atlas Cargo & Imports,195.17,330.05,50,26,84,6
+50,ELE-0050,Portable Powerbank Mod-195,Electronics,Nexus Mercantile Co.,391.27,660.12,68,21,80,5
+51,ELE-0051,Wireless Earbuds Mod-980,Electronics,Precision Dynamics Ltd.,373.29,575.62,26,6,20,14
+52,ELE-0052,4K Monitor Mod-175,Electronics,Prime Source International,149.14,286.35,12,9,20,17
+53,ELE-0053,USB-C Hub Mod-198,Electronics,Prime Source International,252.74,373.46,18,6,20,9
+54,ELE-0054,Noise-Canceling Headphones Mod-285,Electronics,Summit Trading Group,448.2,620.09,89,45,69,13
+55,ELE-0055,HD Webcam Mod-173,Electronics,Atlas Cargo & Imports,281.25,396.75,411,174,289,12
+56,ELE-0056,Noise-Canceling Headphones Mod-293,Electronics,GlobalTech Distributing,234.89,349.97,140,90,94,19
+57,ELE-0057,HD Webcam Mod-400,Electronics,Precision Dynamics Ltd.,162.8,288.96,51,26,55,9
+58,ELE-0058,Noise-Canceling Headphones Mod-630,Electronics,Summit Trading Group,200.03,300.49,102,36,71,10
+59,ELE-0059,HD Webcam Mod-100,Electronics,Nordic Logistics & Trading,265.85,512.37,32,8,48,3
+60,ELE-0060,Smart Watch Mod-157,Electronics,GlobalTech Distributing,27.18,51.77,8,6,20,21
+61,ELE-0061,Gaming Mouse Mod-146,Electronics,Prime Source International,103.83,158.52,2,3,20,5
+62,ELE-0062,HD Webcam Mod-111,Electronics,Atlas Cargo & Imports,428.08,806.57,61,38,75,10
+63,ELE-0063,Mechanical Keyboard Mod-189,Electronics,Nexus Mercantile Co.,164.18,279.14,645,338,354,19
+64,ELE-0064,USB-C Hub Mod-823,Electronics,Nordic Logistics & Trading,371.56,713.35,85,15,74,4
+65,ELE-0065,Gaming Mouse Mod-350,Electronics,GlobalTech Distributing,19.65,30.97,14,15,20,19
+66,ELE-0066,Noise-Canceling Headphones Mod-162,Electronics,Prime Source International,436.7,810.2,19,3,20,5
+67,ELE-0067,USB-C Hub Mod-922,Electronics,Horizon Industrial Corp.,313.74,524.14,61,35,98,7
+68,ELE-0068,Noise-Canceling Headphones Mod-557,Electronics,Nordic Logistics & Trading,117.33,190.11,498,263,349,15
+69,ELE-0069,Wireless Earbuds Mod-980,Electronics,Nexus Mercantile Co.,281.21,440.06,0,57,282,4
+70,ELE-0070,4K Monitor Mod-990,Electronics,Apex Supply Chain Solutions,384.66,646.67,171,92,96,19
+71,ELE-0071,Portable Powerbank Mod-306,Electronics,GlobalTech Distributing,282.18,500.15,2,8,36,4
+72,ELE-0072,Gaming Mouse Mod-949,Electronics,Nordic Logistics & Trading,407.64,635.49,111,53,88,12
+73,ELE-0073,USB-C Hub Mod-896,Electronics,Precision Dynamics Ltd.,211.03,391.51,31,11,30,7
+74,ELE-0074,USB-C Hub Mod-549,Electronics,Nordic Logistics & Trading,245.47,399.15,87,51,57,18
+75,ELE-0075,Bluetooth Speaker Mod-795,Electronics,Prime Source International,404.38,660.91,52,41,38,21
+76,ELE-0076,USB-C Hub Mod-565,Electronics,Atlas Cargo & Imports,86.24,121.01,351,185,231,16
+77,ELE-0077,Noise-Canceling Headphones Mod-912,Electronics,Prime Source International,48.79,79.95,53,44,66,13
+78,ELE-0078,Wireless Earbuds Mod-125,Electronics,Precision Dynamics Ltd.,364.34,655.43,69,33,41,16
+79,ELE-0079,Portable Powerbank Mod-177,Electronics,Nexus Mercantile Co.,326.47,452.95,42,39,152,5
+80,ELE-0080,Gaming Mouse Mod-605,Electronics,Horizon Industrial Corp.,243.42,364.03,69,33,55,12
+81,ELE-0081,Wireless Earbuds Mod-330,Electronics,Horizon Industrial Corp.,152.75,217.19,15,3,20,6
+82,ELE-0082,HD Webcam Mod-208,Electronics,Apex Supply Chain Solutions,46.42,77.63,127,81,85,19
+83,ELE-0083,Noise-Canceling Headphones Mod-524,Electronics,GlobalTech Distributing,168.48,292.74,50,41,53,15
+84,ELE-0084,HD Webcam Mod-388,Electronics,GlobalTech Distributing,52.99,76.4,55,26,38,13
+85,ELE-0085,Bluetooth Speaker Mod-922,Electronics,Prime Source International,43.46,72.35,93,42,104,8
+86,ELE-0086,Mechanical Keyboard Mod-946,Electronics,Horizon Industrial Corp.,438.98,721.88,51,20,91,4
+87,APP-0087,Weatherproof Gloves Mod-125,Apparel & Gear,Nordic Logistics & Trading,378.65,557.77,1,3,20,3
+88,APP-0088,Thermal Jacket Mod-189,Apparel & Gear,Horizon Industrial Corp.,264.91,382.16,41,11,68,3
+89,APP-0089,Weatherproof Gloves Mod-109,Apparel & Gear,GlobalTech Distributing,36.01,70.0,40,14,90,3
+90,APP-0090,Fleece Hoodie Mod-884,Apparel & Gear,Prime Source International,271.27,442.97,65,51,53,19
+91,APP-0091,Running Shoes Mod-433,Apparel & Gear,GlobalTech Distributing,331.04,633.28,40,15,30,10
+92,APP-0092,Weatherproof Gloves Mod-878,Apparel & Gear,Prime Source International,339.72,621.59,19,5,20,21
+93,APP-0093,Sports Duffel Mod-673,Apparel & Gear,Precision Dynamics Ltd.,147.76,251.63,75,32,61,10
+94,APP-0094,Waterproof Backpack Mod-736,Apparel & Gear,Horizon Industrial Corp.,246.58,397.79,62,45,53,17
+95,APP-0095,Hiking Boots Mod-715,Apparel & Gear,Nexus Mercantile Co.,283.91,403.19,26,6,20,10
+96,APP-0096,Cotton T-Shirt Mod-114,Apparel & Gear,Vanguard Components Inc.,243.79,459.87,5,6,37,3
+97,APP-0097,Tactical Belt Mod-388,Apparel & Gear,Precision Dynamics Ltd.,259.89,469.74,2,3,20,8
+98,APP-0098,Cotton T-Shirt Mod-976,Apparel & Gear,Nexus Mercantile Co.,274.95,454.05,37,20,64,6
+99,APP-0099,Running Shoes Mod-510,Apparel & Gear,Nordic Logistics & Trading,314.73,527.37,42,35,53,13
+100,APP-0100,Weatherproof Gloves Mod-649,Apparel & Gear,Horizon Industrial Corp.,185.18,301.33,14,3,20,15
+101,APP-0101,Running Shoes Mod-722,Apparel & Gear,Nexus Mercantile Co.,393.48,751.26,103,29,81,7
+102,APP-0102,Sports Duffel Mod-703,Apparel & Gear,Atlas Cargo & Imports,38.46,53.71,70,210,322,13
+103,APP-0103,Hiking Boots Mod-504,Apparel & Gear,Atlas Cargo & Imports,378.79,539.7,28,15,20,21
+104,APP-0104,Hiking Boots Mod-530,Apparel & Gear,Prime Source International,336.96,496.46,36,20,73,5
+105,APP-0105,Fleece Hoodie Mod-701,Apparel & Gear,Horizon Industrial Corp.,161.08,250.99,85,41,61,13
+106,APP-0106,Waterproof Backpack Mod-281,Apparel & Gear,Nexus Mercantile Co.,263.31,381.62,171,128,195,13
+107,APP-0107,Running Shoes Mod-568,Apparel & Gear,Vanguard Components Inc.,86.69,167.02,137,111,220,10
+108,APP-0108,Thermal Jacket Mod-835,Apparel & Gear,Summit Trading Group,196.64,359.83,65,60,62,19
+109,APP-0109,Weatherproof Gloves Mod-118,Apparel & Gear,Apex Supply Chain Solutions,137.97,245.37,72,65,68,19
+110,APP-0110,Compression Socks Mod-930,Apparel & Gear,Precision Dynamics Ltd.,88.41,165.07,24,5,20,12
+111,APP-0111,Running Shoes Mod-479,Apparel & Gear,Vanguard Components Inc.,19.22,27.75,66,12,78,3
+112,APP-0112,Waterproof Backpack Mod-542,Apparel & Gear,Nexus Mercantile Co.,54.02,98.85,127,66,77,17
+113,APP-0113,Waterproof Backpack Mod-195,Apparel & Gear,Nexus Mercantile Co.,327.24,609.78,19,3,20,7
+114,APP-0114,Tactical Belt Mod-106,Apparel & Gear,Atlas Cargo & Imports,45.79,67.53,187,50,164,6
+115,APP-0115,Running Shoes Mod-613,Apparel & Gear,Vanguard Components Inc.,369.31,574.31,64,39,55,14
+116,APP-0116,Hiking Boots Mod-355,Apparel & Gear,Prime Source International,200.77,306.51,14,12,20,19
+117,APP-0117,Weatherproof Gloves Mod-158,Apparel & Gear,Summit Trading Group,361.54,580.32,133,93,185,10
+118,APP-0118,Fleece Hoodie Mod-458,Apparel & Gear,Prime Source International,69.6,128.83,22,8,20,15
+119,APP-0119,Hiking Boots Mod-174,Apparel & Gear,Horizon Industrial Corp.,412.12,585.48,70,45,47,19
+120,APP-0120,Compression Socks Mod-477,Apparel & Gear,Summit Trading Group,55.11,79.03,45,24,46,10
+121,APP-0121,Fleece Hoodie Mod-920,Apparel & Gear,Summit Trading Group,261.4,484.34,140,71,87,16
+122,APP-0122,Compression Socks Mod-462,Apparel & Gear,Vanguard Components Inc.,44.6,76.35,80,29,56,10
+123,APP-0123,Cotton T-Shirt Mod-212,Apparel & Gear,Summit Trading Group,277.8,533.26,63,36,102,7
+124,APP-0124,Sports Duffel Mod-647,Apparel & Gear,Precision Dynamics Ltd.,79.61,147.67,22,11,20,13
+125,APP-0125,Sports Duffel Mod-549,Apparel & Gear,GlobalTech Distributing,160.22,250.09,46,42,82,10
+126,APP-0126,Tactical Belt Mod-902,Apparel & Gear,Nordic Logistics & Trading,42.37,57.26,21,2,20,14
+127,APP-0127,Thermal Jacket Mod-116,Apparel & Gear,Atlas Cargo & Imports,313.23,520.83,432,368,350,21
+128,APP-0128,Hiking Boots Mod-180,Apparel & Gear,Summit Trading Group,328.05,568.29,18,11,20,14
+129,APP-0129,Sports Duffel Mod-588,Apparel & Gear,Atlas Cargo & Imports,25.43,45.1,16,3,20,9
+130,APP-0130,Hiking Boots Mod-618,Apparel & Gear,Prime Source International,93.13,132.17,101,41,89,9
+131,APP-0131,Sports Duffel Mod-714,Apparel & Gear,Vanguard Components Inc.,295.37,463.38,22,17,63,5
+132,APP-0132,Weatherproof Gloves Mod-282,Apparel & Gear,Summit Trading Group,36.89,56.78,113,68,89,15
+133,APP-0133,Sports Duffel Mod-207,Apparel & Gear,Apex Supply Chain Solutions,18.79,35.18,362,248,330,15
+134,APP-0134,Waterproof Backpack Mod-990,Apparel & Gear,Summit Trading Group,12.19,16.84,0,92,130,14
+135,APP-0135,Weatherproof Gloves Mod-847,Apparel & Gear,Prime Source International,347.58,556.36,110,81,84,19
+136,APP-0136,Weatherproof Gloves Mod-769,Apparel & Gear,Apex Supply Chain Solutions,138.97,207.09,154,101,125,16
+137,APP-0137,Thermal Jacket Mod-988,Apparel & Gear,Nexus Mercantile Co.,63.0,121.2,16,18,45,8
+138,APP-0138,Weatherproof Gloves Mod-110,Apparel & Gear,Apex Supply Chain Solutions,81.83,159.13,92,107,101,21
+139,APP-0139,Sports Duffel Mod-206,Apparel & Gear,Apex Supply Chain Solutions,177.77,243.91,11,5,20,7
+140,APP-0140,Tactical Belt Mod-788,Apparel & Gear,Prime Source International,418.07,813.96,71,57,57,20
+141,APP-0141,Thermal Jacket Mod-315,Apparel & Gear,Nordic Logistics & Trading,368.6,547.25,57,38,68,11
+142,APP-0142,Hiking Boots Mod-709,Apparel & Gear,Prime Source International,180.9,273.84,33,6,28,4
+143,APP-0143,Fleece Hoodie Mod-562,Apparel & Gear,Nexus Mercantile Co.,419.76,751.84,20,18,45,8
+144,APP-0144,Hiking Boots Mod-275,Apparel & Gear,Atlas Cargo & Imports,243.41,469.12,347,252,335,15
+145,APP-0145,Weatherproof Gloves Mod-400,Apparel & Gear,Nordic Logistics & Trading,372.51,580.63,87,53,70,15
+146,APP-0146,Weatherproof Gloves Mod-246,Apparel & Gear,Nexus Mercantile Co.,116.42,168.16,53,39,52,15
+147,APP-0147,Sports Duffel Mod-455,Apparel & Gear,Horizon Industrial Corp.,91.64,172.19,13,6,20,12
+148,APP-0148,Hiking Boots Mod-769,Apparel & Gear,Summit Trading Group,79.06,145.53,14,5,20,9
+149,APP-0149,Thermal Jacket Mod-332,Apparel & Gear,Vanguard Components Inc.,59.2,93.3,432,285,317,18
+150,APP-0150,Tactical Belt Mod-685,Apparel & Gear,Prime Source International,433.64,674.36,52,30,100,6
+151,APP-0151,Cotton T-Shirt Mod-341,Apparel & Gear,Precision Dynamics Ltd.,141.03,250.31,106,39,260,3
+152,APP-0152,Weatherproof Gloves Mod-309,Apparel & Gear,Apex Supply Chain Solutions,445.65,782.4,123,54,77,14
+153,APP-0153,Thermal Jacket Mod-745,Apparel & Gear,Nordic Logistics & Trading,119.61,161.55,5,20,62,6
+154,APP-0154,Fleece Hoodie Mod-138,Apparel & Gear,Summit Trading Group,373.06,570.42,11,9,20,13
+155,APP-0155,Thermal Jacket Mod-481,Apparel & Gear,Nexus Mercantile Co.,199.09,381.49,70,32,76,8
+156,APP-0156,Hiking Boots Mod-486,Apparel & Gear,Vanguard Components Inc.,149.77,267.29,56,39,41,19
+157,APP-0157,Running Shoes Mod-370,Apparel & Gear,Nexus Mercantile Co.,78.39,115.41,205,126,157,16
+158,APP-0158,Tactical Belt Mod-486,Apparel & Gear,GlobalTech Distributing,411.03,793.5,100,50,62,16
+159,APP-0159,Cotton T-Shirt Mod-839,Apparel & Gear,Prime Source International,96.63,158.95,136,53,260,4
+160,APP-0160,Thermal Jacket Mod-171,Apparel & Gear,GlobalTech Distributing,40.02,63.45,63,48,73,13
+161,APP-0161,Thermal Jacket Mod-201,Apparel & Gear,Prime Source International,25.51,41.79,234,143,179,16
+162,APP-0162,Compression Socks Mod-185,Apparel & Gear,Precision Dynamics Ltd.,160.94,292.18,13,2,20,3
+163,APP-0163,Thermal Jacket Mod-688,Apparel & Gear,Precision Dynamics Ltd.,166.15,256.41,9,5,20,20
+164,APP-0164,Sports Duffel Mod-986,Apparel & Gear,Vanguard Components Inc.,428.59,610.54,6,6,20,11
+165,APP-0165,Fleece Hoodie Mod-469,Apparel & Gear,Nexus Mercantile Co.,426.73,736.19,61,35,74,9
+166,APP-0166,Cotton T-Shirt Mod-489,Apparel & Gear,Atlas Cargo & Imports,354.45,580.78,178,128,160,16
+167,APP-0167,Compression Socks Mod-111,Apparel & Gear,Summit Trading Group,295.43,483.79,53,42,51,16
+168,APP-0168,Weatherproof Gloves Mod-832,Apparel & Gear,Summit Trading Group,199.68,274.8,44,27,26,21
+169,APP-0169,Weatherproof Gloves Mod-972,Apparel & Gear,Nordic Logistics & Trading,44.03,70.09,96,50,58,17
+170,APP-0170,Thermal Jacket Mod-961,Apparel & Gear,GlobalTech Distributing,329.41,591.5,41,38,53,14
+171,APP-0171,Weatherproof Gloves Mod-661,Apparel & Gear,Vanguard Components Inc.,235.19,400.49,124,65,215,6
+172,APP-0172,Running Shoes Mod-873,Apparel & Gear,Summit Trading Group,130.36,222.32,6,5,20,15
+173,HKT-0173,Cast Iron Skillet Mod-836,Home & Kitchen,Nordic Logistics & Trading,350.99,559.19,67,62,76,16
+174,HKT-0174,Non-stick Cookware Set Mod-392,Home & Kitchen,GlobalTech Distributing,38.56,62.17,238,174,218,16
+175,HKT-0175,Food Processor Mod-183,Home & Kitchen,Apex Supply Chain Solutions,50.11,87.26,51,15,57,5
+176,HKT-0176,Air Fryer Mod-523,Home & Kitchen,Nexus Mercantile Co.,183.32,273.55,94,77,96,16
+177,HKT-0177,Electric Kettle Mod-943,Home & Kitchen,Prime Source International,198.45,297.52,116,54,82,13
+178,HKT-0178,Cast Iron Skillet Mod-303,Home & Kitchen,GlobalTech Distributing,353.55,626.93,77,39,95,8
+179,HKT-0179,Blender 1000W Mod-981,Home & Kitchen,Apex Supply Chain Solutions,62.35,92.82,214,69,274,5
+180,HKT-0180,Cast Iron Skillet Mod-158,Home & Kitchen,GlobalTech Distributing,53.66,91.27,96,57,57,20
+181,HKT-0181,Espresso Machine Mod-316,Home & Kitchen,Apex Supply Chain Solutions,438.11,743.94,114,47,67,14
+182,HKT-0182,Non-stick Cookware Set Mod-483,Home & Kitchen,Precision Dynamics Ltd.,319.47,469.98,11,17,103,3
+183,HKT-0183,Robot Vacuum Mod-616,Home & Kitchen,Horizon Industrial Corp.,120.85,211.12,23,8,20,20
+184,HKT-0184,Electric Kettle Mod-747,Home & Kitchen,Nexus Mercantile Co.,347.69,492.98,68,15,99,3
+185,HKT-0185,Cast Iron Skillet Mod-403,Home & Kitchen,GlobalTech Distributing,263.12,410.24,98,41,74,11
+186,HKT-0186,Food Processor Mod-787,Home & Kitchen,Prime Source International,47.99,73.1,302,111,277,8
+187,HKT-0187,Robot Vacuum Mod-118,Home & Kitchen,Horizon Industrial Corp.,406.41,762.72,27,15,95,3
+188,HKT-0188,Robot Vacuum Mod-554,Home & Kitchen,Prime Source International,153.14,264.65,88,74,70,21
+189,HKT-0189,Food Processor Mod-516,Home & Kitchen,Vanguard Components Inc.,249.19,402.85,305,131,261,10
+190,HKT-0190,Electric Kettle Mod-876,Home & Kitchen,Nordic Logistics & Trading,247.72,475.84,19,11,20,14
+191,HKT-0191,Cast Iron Skillet Mod-399,Home & Kitchen,Precision Dynamics Ltd.,276.69,500.51,9,8,20,13
+192,HKT-0192,Non-stick Cookware Set Mod-718,Home & Kitchen,Summit Trading Group,404.35,563.17,14,12,20,21
+193,HKT-0193,Cast Iron Skillet Mod-240,Home & Kitchen,Horizon Industrial Corp.,93.99,136.27,63,54,67,16
+194,HKT-0194,Stainless Steel Knife Set Mod-747,Home & Kitchen,Atlas Cargo & Imports,277.77,494.34,85,38,58,13
+195,HKT-0195,Electric Kettle Mod-138,Home & Kitchen,Summit Trading Group,138.51,252.93,33,30,99,6
+196,HKT-0196,Robot Vacuum Mod-484,Home & Kitchen,Nexus Mercantile Co.,240.71,341.18,241,152,274,11
+197,HKT-0197,Electric Kettle Mod-477,Home & Kitchen,Prime Source International,379.22,716.73,51,17,44,7
+198,HKT-0198,Water Filter Pitcher Mod-630,Home & Kitchen,Precision Dynamics Ltd.,195.29,341.86,167,41,270,3
+199,HKT-0199,Cast Iron Skillet Mod-786,Home & Kitchen,Vanguard Components Inc.,333.7,623.24,30,30,32,18
+200,HKT-0200,Stainless Steel Knife Set Mod-554,Home & Kitchen,Atlas Cargo & Imports,121.54,210.17,152,39,155,5
+201,HKT-0201,Espresso Machine Mod-934,Home & Kitchen,Atlas Cargo & Imports,197.26,351.23,146,84,105,16
+202,HKT-0202,Electric Kettle Mod-201,Home & Kitchen,Atlas Cargo & Imports,408.24,740.37,0,24,77,6
+203,HKT-0203,Water Filter Pitcher Mod-452,Home & Kitchen,Horizon Industrial Corp.,164.91,229.5,30,11,30,7
+204,HKT-0204,Cast Iron Skillet Mod-875,Home & Kitchen,Horizon Industrial Corp.,270.02,474.72,88,26,62,8
+205,HKT-0205,Espresso Machine Mod-713,Home & Kitchen,Vanguard Components Inc.,448.0,724.78,67,23,72,6
+206,HKT-0206,Food Processor Mod-410,Home & Kitchen,Atlas Cargo & Imports,50.73,82.19,71,38,53,14
+207,HKT-0207,Stainless Steel Knife Set Mod-755,Home & Kitchen,Summit Trading Group,184.5,265.95,15,11,20,14
+208,HKT-0208,Cast Iron Skillet Mod-183,Home & Kitchen,Horizon Industrial Corp.,121.61,221.66,4,8,20,14
+209,HKT-0209,Espresso Machine Mod-608,Home & Kitchen,Precision Dynamics Ltd.,141.98,214.09,20,18,32,11
+210,HKT-0210,Stainless Steel Knife Set Mod-279,Home & Kitchen,Summit Trading Group,424.54,795.59,72,75,88,17
+211,HKT-0211,Cast Iron Skillet Mod-343,Home & Kitchen,Atlas Cargo & Imports,229.51,364.53,95,45,75,12
+212,HKT-0212,Robot Vacuum Mod-166,Home & Kitchen,Summit Trading Group,142.67,199.53,0,9,39,4
+213,HKT-0213,Blender 1000W Mod-867,Home & Kitchen,Atlas Cargo & Imports,371.54,531.12,13,12,20,16
+214,HKT-0214,Robot Vacuum Mod-337,Home & Kitchen,Precision Dynamics Ltd.,230.13,365.72,302,105,209,10
+215,HKT-0215,Blender 1000W Mod-636,Home & Kitchen,Precision Dynamics Ltd.,43.34,78.71,410,212,263,16
+216,HKT-0216,Robot Vacuum Mod-771,Home & Kitchen,Apex Supply Chain Solutions,295.39,425.72,394,185,308,12
+217,HKT-0217,Espresso Machine Mod-352,Home & Kitchen,Nexus Mercantile Co.,139.43,224.23,42,26,31,16
+218,HKT-0218,Air Fryer Mod-359,Home & Kitchen,Precision Dynamics Ltd.,448.54,824.59,40,15,49,6
+219,HKT-0219,Non-stick Cookware Set Mod-789,Home & Kitchen,GlobalTech Distributing,399.88,647.75,46,44,54,16
+220,HKT-0220,Robot Vacuum Mod-744,Home & Kitchen,Summit Trading Group,191.94,314.55,194,110,183,12
+221,HKT-0221,Water Filter Pitcher Mod-522,Home & Kitchen,GlobalTech Distributing,103.12,139.96,155,104,104,20
+222,HKT-0222,Blender 1000W Mod-564,Home & Kitchen,Nordic Logistics & Trading,125.51,218.09,25,15,46,6
+223,HKT-0223,Espresso Machine Mod-843,Home & Kitchen,Nordic Logistics & Trading,174.14,276.31,114,66,88,15
+224,HKT-0224,Air Fryer Mod-219,Home & Kitchen,Prime Source International,424.73,779.52,294,188,188,20
+225,HKT-0225,Water Filter Pitcher Mod-888,Home & Kitchen,Summit Trading Group,299.43,565.05,33,56,74,15
+226,HKT-0226,Air Fryer Mod-186,Home & Kitchen,GlobalTech Distributing,29.14,40.0,128,83,78,21
+227,HKT-0227,Water Filter Pitcher Mod-116,Home & Kitchen,GlobalTech Distributing,232.79,368.4,86,90,105,17
+228,HKT-0228,Stainless Steel Knife Set Mod-639,Home & Kitchen,Nordic Logistics & Trading,84.96,119.71,13,53,86,12
+229,HKT-0229,Air Fryer Mod-322,Home & Kitchen,Nexus Mercantile Co.,348.0,600.23,43,39,41,19
+230,HKT-0230,Blender 1000W Mod-689,Home & Kitchen,Prime Source International,292.61,488.13,373,107,353,6
+231,HKT-0231,Water Filter Pitcher Mod-869,Home & Kitchen,Horizon Industrial Corp.,222.82,423.84,13,15,74,4
+232,HKT-0232,Air Fryer Mod-501,Home & Kitchen,Summit Trading Group,50.0,78.78,57,56,56,20
+233,HKT-0233,Blender 1000W Mod-824,Home & Kitchen,Nordic Logistics & Trading,400.02,695.03,91,42,91,9
+234,HKT-0234,Food Processor Mod-629,Home & Kitchen,GlobalTech Distributing,341.73,555.76,19,6,20,9
+235,HKT-0235,Robot Vacuum Mod-761,Home & Kitchen,Prime Source International,422.33,581.09,40,30,35,17
+236,HKT-0236,Espresso Machine Mod-706,Home & Kitchen,Nordic Logistics & Trading,74.6,116.04,14,14,86,3
+237,HKT-0237,Robot Vacuum Mod-118,Home & Kitchen,Summit Trading Group,312.49,585.6,152,74,86,17
+238,HKT-0238,Electric Kettle Mod-755,Home & Kitchen,Nexus Mercantile Co.,117.03,209.0,4,3,20,12
+239,HKT-0239,Food Processor Mod-109,Home & Kitchen,GlobalTech Distributing,332.02,570.94,71,41,53,15
+240,HKT-0240,Blender 1000W Mod-697,Home & Kitchen,Atlas Cargo & Imports,344.36,472.18,13,9,41,4
+241,HKT-0241,Blender 1000W Mod-686,Home & Kitchen,Nordic Logistics & Trading,380.15,620.48,27,30,35,17
+242,HKT-0242,Blender 1000W Mod-635,Home & Kitchen,Horizon Industrial Corp.,270.13,428.13,81,50,81,12
+243,HKT-0243,Blender 1000W Mod-287,Home & Kitchen,Prime Source International,179.35,285.42,9,3,20,5
+244,HKT-0244,Electric Kettle Mod-154,Home & Kitchen,Precision Dynamics Ltd.,255.81,437.97,152,95,90,21
+245,HKT-0245,Stainless Steel Knife Set Mod-505,Home & Kitchen,Nexus Mercantile Co.,155.73,283.57,142,93,88,21
+246,HKT-0246,Blender 1000W Mod-449,Home & Kitchen,Summit Trading Group,333.09,496.81,0,26,30,17
+247,HKT-0247,Robot Vacuum Mod-912,Home & Kitchen,Vanguard Components Inc.,194.19,336.28,23,14,34,8
+248,HKT-0248,Non-stick Cookware Set Mod-236,Home & Kitchen,Atlas Cargo & Imports,267.79,391.16,85,39,52,15
+249,HKT-0249,Robot Vacuum Mod-809,Home & Kitchen,Vanguard Components Inc.,418.89,762.19,373,342,325,21
+250,HKT-0250,Cast Iron Skillet Mod-148,Home & Kitchen,GlobalTech Distributing,210.52,345.21,118,63,140,9
+251,HKT-0251,Stainless Steel Knife Set Mod-740,Home & Kitchen,Nexus Mercantile Co.,330.44,597.87,70,23,74,6
+252,HKT-0252,Water Filter Pitcher Mod-975,Home & Kitchen,Atlas Cargo & Imports,132.73,200.03,66,59,98,12
+253,HKT-0253,Robot Vacuum Mod-717,Home & Kitchen,Prime Source International,351.31,488.05,19,27,27,20
+254,HKT-0254,Food Processor Mod-632,Home & Kitchen,Precision Dynamics Ltd.,147.31,267.09,122,116,177,13
+255,HKT-0255,Non-stick Cookware Set Mod-525,Home & Kitchen,Atlas Cargo & Imports,193.11,290.84,171,104,104,20
+256,HKT-0256,Non-stick Cookware Set Mod-829,Home & Kitchen,GlobalTech Distributing,257.88,419.92,1,6,20,11
+257,HKT-0257,Cast Iron Skillet Mod-807,Home & Kitchen,Atlas Cargo & Imports,47.27,83.21,87,21,104,4
+258,HKT-0258,Food Processor Mod-522,Home & Kitchen,Horizon Industrial Corp.,250.59,430.45,126,57,93,12
+259,IND-0259,Laser Measure Mod-121,Industrial & Tools,Prime Source International,303.71,494.25,0,54,77,14
+260,IND-0260,Torque Wrench Mod-393,Industrial & Tools,Atlas Cargo & Imports,440.3,804.16,61,17,52,6
+261,IND-0261,Angle Grinder Mod-754,Industrial & Tools,Nexus Mercantile Co.,63.8,111.38,62,26,45,11
+262,IND-0262,Measuring Tape 25ft Mod-980,Industrial & Tools,Apex Supply Chain Solutions,36.82,59.96,17,3,20,5
+263,IND-0263,Toolbox Set 100pc Mod-890,Industrial & Tools,Prime Source International,183.64,258.21,52,29,40,14
+264,IND-0264,Torque Wrench Mod-607,Industrial & Tools,Prime Source International,263.3,455.71,60,51,57,18
+265,IND-0265,Laser Measure Mod-653,Industrial & Tools,Precision Dynamics Ltd.,254.56,369.02,70,54,54,20
+266,IND-0266,Angle Grinder Mod-319,Industrial & Tools,Vanguard Components Inc.,22.76,35.69,50,33,91,7
+267,IND-0267,Angle Grinder Mod-465,Industrial & Tools,Horizon Industrial Corp.,386.74,549.4,46,8,50,3
+268,IND-0268,Work Workbench Light Mod-632,Industrial & Tools,Apex Supply Chain Solutions,81.35,152.87,42,14,38,7
+269,IND-0269,Cordless Drill Mod-295,Industrial & Tools,Prime Source International,371.75,548.65,140,57,103,11
+270,IND-0270,Laser Measure Mod-745,Industrial & Tools,Nordic Logistics & Trading,343.74,667.83,10,6,20,11
+271,IND-0271,Laser Measure Mod-230,Industrial & Tools,Atlas Cargo & Imports,116.0,164.46,42,74,293,5
+272,IND-0272,Heavy Duty Gloves Mod-406,Industrial & Tools,Apex Supply Chain Solutions,338.98,590.06,43,20,53,7
+273,IND-0273,Safety Goggles Mod-388,Industrial & Tools,Precision Dynamics Ltd.,334.77,473.3,20,21,25,17
+274,IND-0274,Heavy Duty Gloves Mod-759,Industrial & Tools,Vanguard Components Inc.,377.97,573.59,67,69,81,17
+275,IND-0275,Digital Caliper Mod-326,Industrial & Tools,Prime Source International,142.34,247.94,23,6,20,9
+276,IND-0276,Laser Measure Mod-214,Industrial & Tools,Vanguard Components Inc.,394.41,532.5,84,45,56,16
+277,IND-0277,Toolbox Set 100pc Mod-600,Industrial & Tools,Nexus Mercantile Co.,64.95,103.77,13,9,20,19
+278,IND-0278,Torque Wrench Mod-369,Industrial & Tools,Atlas Cargo & Imports,435.08,620.63,121,27,103,5
+279,IND-0279,Heavy Duty Gloves Mod-383,Industrial & Tools,Precision Dynamics Ltd.,441.96,761.41,110,80,75,21
+280,IND-0280,Torque Wrench Mod-536,Industrial & Tools,Precision Dynamics Ltd.,50.67,75.76,367,188,233,16
+281,IND-0281,Safety Goggles Mod-433,Industrial & Tools,Prime Source International,29.28,55.39,14,9,20,16
+282,IND-0282,Torque Wrench Mod-226,Industrial & Tools,Summit Trading Group,242.84,449.96,59,39,59,13
+283,IND-0283,Laser Measure Mod-568,Industrial & Tools,GlobalTech Distributing,36.13,66.8,38,20,34,11
+284,IND-0284,Toolbox Set 100pc Mod-134,Industrial & Tools,Vanguard Components Inc.,36.59,70.38,188,144,287,10
+285,IND-0285,Heavy Duty Gloves Mod-758,Industrial & Tools,Atlas Cargo & Imports,80.85,117.42,16,9,20,21
+286,IND-0286,Work Workbench Light Mod-447,Industrial & Tools,Precision Dynamics Ltd.,177.95,292.3,56,21,101,4
+287,IND-0287,Heavy Duty Gloves Mod-868,Industrial & Tools,Nexus Mercantile Co.,288.27,401.43,92,38,54,14
+288,IND-0288,Torque Wrench Mod-566,Industrial & Tools,Atlas Cargo & Imports,437.42,677.48,12,11,40,5
+289,IND-0289,Toolbox Set 100pc Mod-923,Industrial & Tools,Vanguard Components Inc.,236.33,319.83,230,113,173,13
+290,IND-0290,Cordless Drill Mod-701,Industrial & Tools,Summit Trading Group,362.74,614.2,59,27,48,11
+291,IND-0291,Digital Caliper Mod-916,Industrial & Tools,Prime Source International,369.65,616.93,16,5,20,9
+292,IND-0292,Safety Goggles Mod-432,Industrial & Tools,Vanguard Components Inc.,180.32,322.4,17,9,20,15
+293,IND-0293,Cordless Drill Mod-400,Industrial & Tools,Atlas Cargo & Imports,430.14,792.63,237,206,273,15
+294,IND-0294,Cordless Drill Mod-786,Industrial & Tools,Precision Dynamics Ltd.,311.47,441.88,93,62,61,20
+295,IND-0295,Torque Wrench Mod-183,Industrial & Tools,Vanguard Components Inc.,39.39,55.07,105,56,101,11
+296,IND-0296,Safety Goggles Mod-942,Industrial & Tools,Atlas Cargo & Imports,229.95,329.59,153,41,158,5
+297,IND-0297,Digital Caliper Mod-613,Industrial & Tools,Horizon Industrial Corp.,374.43,728.18,24,9,20,14
+298,IND-0298,Cordless Drill Mod-410,Industrial & Tools,Atlas Cargo & Imports,410.28,752.79,44,26,62,8
+299,IND-0299,Angle Grinder Mod-206,Industrial & Tools,Apex Supply Chain Solutions,186.52,260.49,11,66,94,14
+300,IND-0300,Safety Goggles Mod-294,Industrial & Tools,Prime Source International,198.5,305.95,51,17,55,6
+301,IND-0301,Torque Wrench Mod-778,Industrial & Tools,Apex Supply Chain Solutions,81.75,131.48,262,51,334,3
+302,IND-0302,Safety Goggles Mod-768,Industrial & Tools,Atlas Cargo & Imports,293.45,508.3,35,20,30,13
+303,IND-0303,Angle Grinder Mod-675,Industrial & Tools,GlobalTech Distributing,242.74,450.29,20,21,70,6
+304,IND-0304,Laser Measure Mod-936,Industrial & Tools,Nexus Mercantile Co.,440.03,734.48,109,116,144,16
+305,IND-0305,Measuring Tape 25ft Mod-662,Industrial & Tools,Apex Supply Chain Solutions,146.44,210.62,15,14,35,7
+306,IND-0306,Digital Caliper Mod-134,Industrial & Tools,Summit Trading Group,204.3,397.75,31,27,32,17
+307,IND-0307,Cordless Drill Mod-208,Industrial & Tools,Horizon Industrial Corp.,247.3,356.73,97,72,68,21
+308,IND-0308,Laser Measure Mod-515,Industrial & Tools,Nordic Logistics & Trading,86.31,142.8,28,29,44,13
+309,IND-0309,Safety Goggles Mod-484,Industrial & Tools,Nexus Mercantile Co.,449.87,647.95,13,5,20,19
+310,IND-0310,Laser Measure Mod-203,Industrial & Tools,Horizon Industrial Corp.,259.66,447.24,71,21,57,7
+311,IND-0311,Toolbox Set 100pc Mod-985,Industrial & Tools,Nordic Logistics & Trading,66.51,113.45,33,45,53,17
+312,IND-0312,Digital Caliper Mod-857,Industrial & Tools,Summit Trading Group,63.17,115.38,160,68,96,14
+313,IND-0313,Safety Goggles Mod-246,Industrial & Tools,Atlas Cargo & Imports,441.6,724.24,19,3,20,6
+314,IND-0314,Cordless Drill Mod-315,Industrial & Tools,Summit Trading Group,178.85,296.31,102,75,71,21
+315,IND-0315,Laser Measure Mod-703,Industrial & Tools,Nordic Logistics & Trading,274.14,467.37,0,5,20,11
+316,IND-0316,Cordless Drill Mod-436,Industrial & Tools,Vanguard Components Inc.,139.91,209.06,59,17,45,7
+317,IND-0317,Work Workbench Light Mod-819,Industrial & Tools,Apex Supply Chain Solutions,218.76,385.59,84,50,81,12
+318,IND-0318,Digital Caliper Mod-303,Industrial & Tools,Apex Supply Chain Solutions,155.37,278.09,61,23,89,5
+319,IND-0319,Torque Wrench Mod-893,Industrial & Tools,Vanguard Components Inc.,47.7,64.46,255,72,203,7
+320,IND-0320,Digital Caliper Mod-240,Industrial & Tools,Nexus Mercantile Co.,422.19,778.16,5,5,20,5
+321,IND-0321,Torque Wrench Mod-634,Industrial & Tools,Prime Source International,327.63,497.41,22,18,26,13
+322,IND-0322,Safety Goggles Mod-287,Industrial & Tools,Apex Supply Chain Solutions,10.69,15.08,25,11,20,19
+323,IND-0323,Measuring Tape 25ft Mod-479,Industrial & Tools,Horizon Industrial Corp.,30.2,42.09,59,11,48,4
+324,IND-0324,Torque Wrench Mod-314,Industrial & Tools,Nexus Mercantile Co.,187.06,354.23,45,11,63,3
+325,IND-0325,Digital Caliper Mod-880,Industrial & Tools,GlobalTech Distributing,102.87,164.56,60,24,40,12
+326,IND-0326,Torque Wrench Mod-665,Industrial & Tools,Precision Dynamics Ltd.,289.59,482.39,42,38,44,17
+327,IND-0327,Toolbox Set 100pc Mod-304,Industrial & Tools,Summit Trading Group,326.53,519.47,27,20,96,4
+328,IND-0328,Heavy Duty Gloves Mod-815,Industrial & Tools,Vanguard Components Inc.,148.37,200.31,28,12,28,8
+329,IND-0329,Torque Wrench Mod-917,Industrial & Tools,Nexus Mercantile Co.,9.69,14.52,67,33,50,13
+330,IND-0330,Safety Goggles Mod-236,Industrial & Tools,Apex Supply Chain Solutions,146.5,267.12,24,8,20,19
+331,IND-0331,Torque Wrench Mod-790,Industrial & Tools,GlobalTech Distributing,59.28,81.53,125,60,100,12
+332,IND-0332,Digital Caliper Mod-334,Industrial & Tools,GlobalTech Distributing,434.99,785.86,15,8,20,11
+333,IND-0333,Safety Goggles Mod-822,Industrial & Tools,GlobalTech Distributing,29.3,45.88,26,6,20,11
+334,IND-0334,Laser Measure Mod-867,Industrial & Tools,Nordic Logistics & Trading,171.46,236.86,84,44,58,15
+335,IND-0335,Laser Measure Mod-627,Industrial & Tools,Prime Source International,298.55,487.64,15,5,20,15
+336,IND-0336,Laser Measure Mod-827,Industrial & Tools,Nexus Mercantile Co.,296.02,530.81,63,39,77,10
+337,IND-0337,Cordless Drill Mod-455,Industrial & Tools,GlobalTech Distributing,135.04,212.1,189,89,147,12
+338,IND-0338,Digital Caliper Mod-685,Industrial & Tools,GlobalTech Distributing,410.69,760.99,77,26,101,5
+339,IND-0339,Angle Grinder Mod-116,Industrial & Tools,Horizon Industrial Corp.,125.87,224.67,4,2,20,8
+340,IND-0340,Work Workbench Light Mod-255,Industrial & Tools,Vanguard Components Inc.,238.41,461.47,24,107,125,17
+341,IND-0341,Laser Measure Mod-520,Industrial & Tools,Horizon Industrial Corp.,200.49,310.61,119,39,84,9
+342,IND-0342,Digital Caliper Mod-583,Industrial & Tools,Summit Trading Group,396.63,696.22,111,47,92,10
+343,IND-0343,Toolbox Set 100pc Mod-715,Industrial & Tools,Nordic Logistics & Trading,321.88,615.57,89,45,63,14
+344,IND-0344,Measuring Tape 25ft Mod-203,Industrial & Tools,Prime Source International,113.71,189.72,63,42,77,11
+345,OFF-0345,Document Scanner Mod-591,Office Supplies,Summit Trading Group,70.23,121.04,70,47,71,13
+346,OFF-0346,Whiteboard 36x24 Mod-459,Office Supplies,Precision Dynamics Ltd.,179.57,315.05,0,21,52,8
+347,OFF-0347,Label Printer Mod-658,Office Supplies,Prime Source International,312.98,552.11,22,6,20,11
+348,OFF-0348,Gel Pen Box 24pc Mod-772,Office Supplies,Apex Supply Chain Solutions,141.45,255.55,3,81,101,16
+349,OFF-0349,Gel Pen Box 24pc Mod-673,Office Supplies,Horizon Industrial Corp.,344.3,577.78,20,17,62,5
+350,OFF-0350,Whiteboard 36x24 Mod-527,Office Supplies,Vanguard Components Inc.,68.55,133.47,17,41,56,14
+351,OFF-0351,Dual Monitor Arm Mod-966,Office Supplies,Nexus Mercantile Co.,322.58,625.38,88,47,46,20
+352,OFF-0352,Filing Cabinet 3-Drawer Mod-969,Office Supplies,Horizon Industrial Corp.,13.76,18.69,14,3,20,4
+353,OFF-0353,Desk Mat Large Mod-947,Office Supplies,Apex Supply Chain Solutions,435.44,690.47,19,5,20,6
+354,OFF-0354,Ergonomic Desk Chair Mod-526,Office Supplies,Summit Trading Group,353.36,680.61,145,66,94,14
+355,OFF-0355,Document Scanner Mod-647,Office Supplies,GlobalTech Distributing,174.63,293.59,22,2,20,12
+356,OFF-0356,Standing Desk Converter Mod-666,Office Supplies,Nexus Mercantile Co.,365.26,548.73,32,41,57,14
+357,OFF-0357,Document Scanner Mod-839,Office Supplies,Prime Source International,75.98,147.71,24,5,20,9
+358,OFF-0358,Dual Monitor Arm Mod-503,Office Supplies,GlobalTech Distributing,22.42,31.04,83,45,47,19
+359,OFF-0359,Dual Monitor Arm Mod-960,Office Supplies,Precision Dynamics Ltd.,261.64,418.46,18,11,20,15
+360,OFF-0360,Filing Cabinet 3-Drawer Mod-365,Office Supplies,Prime Source International,25.21,34.58,153,72,95,15
+361,OFF-0361,Dual Monitor Arm Mod-808,Office Supplies,Nexus Mercantile Co.,264.4,438.91,66,23,47,9
+362,OFF-0362,Filing Cabinet 3-Drawer Mod-253,Office Supplies,Nexus Mercantile Co.,185.22,334.85,0,14,20,20
+363,OFF-0363,Whiteboard 36x24 Mod-652,Office Supplies,Nordic Logistics & Trading,270.46,370.45,4,47,54,17
+364,OFF-0364,Ergonomic Desk Chair Mod-806,Office Supplies,Nexus Mercantile Co.,373.42,514.79,121,53,87,12
+365,OFF-0365,Standing Desk Converter Mod-532,Office Supplies,Summit Trading Group,28.07,42.78,23,5,20,11
+366,OFF-0366,Label Printer Mod-799,Office Supplies,Horizon Industrial Corp.,168.08,299.83,37,11,41,5
+367,OFF-0367,Gel Pen Box 24pc Mod-914,Office Supplies,Precision Dynamics Ltd.,435.35,646.31,54,30,85,7
+368,OFF-0368,Document Scanner Mod-405,Office Supplies,GlobalTech Distributing,322.98,594.31,98,47,55,17
+369,OFF-0369,Filing Cabinet 3-Drawer Mod-627,Office Supplies,Nexus Mercantile Co.,345.02,578.08,243,128,212,12
+370,OFF-0370,Standing Desk Converter Mod-866,Office Supplies,Prime Source International,126.83,219.04,37,48,54,18
+371,OFF-0371,Label Printer Mod-734,Office Supplies,GlobalTech Distributing,255.56,464.72,72,38,38,19
+372,OFF-0372,Whiteboard 36x24 Mod-293,Office Supplies,Nexus Mercantile Co.,87.65,123.49,11,2,20,9
+373,OFF-0373,Label Printer Mod-692,Office Supplies,Apex Supply Chain Solutions,364.73,535.11,46,14,52,5
+374,OFF-0374,Ergonomic Desk Chair Mod-175,Office Supplies,Summit Trading Group,250.79,385.51,44,21,66,6
+375,OFF-0375,Paper Shredder 12-Sheet Mod-142,Office Supplies,Precision Dynamics Ltd.,62.98,115.16,105,29,93,6
+376,OFF-0376,Paper Shredder 12-Sheet Mod-988,Office Supplies,Vanguard Components Inc.,435.43,601.33,31,33,83,8
+377,OFF-0377,Paper Shredder 12-Sheet Mod-758,Office Supplies,Atlas Cargo & Imports,365.49,641.91,61,53,50,21
+378,OFF-0378,Whiteboard 36x24 Mod-618,Office Supplies,Nexus Mercantile Co.,421.4,783.98,20,9,20,18
+379,OFF-0379,Ergonomic Desk Chair Mod-212,Office Supplies,GlobalTech Distributing,143.6,224.27,53,42,52,16
+380,OFF-0380,Whiteboard 36x24 Mod-158,Office Supplies,Vanguard Components Inc.,134.31,216.19,4,11,51,4
+381,OFF-0381,Filing Cabinet 3-Drawer Mod-551,Office Supplies,Vanguard Components Inc.,291.65,511.23,67,44,41,21
+382,OFF-0382,Whiteboard 36x24 Mod-503,Office Supplies,Nexus Mercantile Co.,130.13,209.41,14,2,20,12
+383,OFF-0383,Gel Pen Box 24pc Mod-669,Office Supplies,GlobalTech Distributing,440.7,741.83,78,69,72,19
+384,OFF-0384,Filing Cabinet 3-Drawer Mod-486,Office Supplies,Atlas Cargo & Imports,236.42,424.16,51,29,69,8
+385,OFF-0385,Filing Cabinet 3-Drawer Mod-394,Office Supplies,Horizon Industrial Corp.,38.2,61.43,71,17,62,5
+386,OFF-0386,Desk Mat Large Mod-901,Office Supplies,Horizon Industrial Corp.,434.54,652.04,72,74,82,18
+387,OFF-0387,Dual Monitor Arm Mod-158,Office Supplies,Apex Supply Chain Solutions,390.81,749.59,270,135,158,17
+388,OFF-0388,Paper Shredder 12-Sheet Mod-659,Office Supplies,GlobalTech Distributing,97.56,166.1,72,12,80,3
+389,OFF-0389,Dual Monitor Arm Mod-106,Office Supplies,Vanguard Components Inc.,247.56,473.78,14,68,83,16
+390,OFF-0390,Gel Pen Box 24pc Mod-275,Office Supplies,Horizon Industrial Corp.,53.04,71.87,29,27,32,17
+391,OFF-0391,Label Printer Mod-347,Office Supplies,Vanguard Components Inc.,249.72,437.61,25,20,41,9
+392,OFF-0392,Filing Cabinet 3-Drawer Mod-210,Office Supplies,Precision Dynamics Ltd.,14.08,21.11,57,42,46,18
+393,OFF-0393,Standing Desk Converter Mod-929,Office Supplies,Atlas Cargo & Imports,271.92,464.14,59,51,51,20
+394,OFF-0394,Paper Shredder 12-Sheet Mod-263,Office Supplies,Nexus Mercantile Co.,96.52,166.02,76,68,84,16
+395,OFF-0395,Document Scanner Mod-820,Office Supplies,Prime Source International,99.15,181.43,35,15,95,3
+396,OFF-0396,Label Printer Mod-949,Office Supplies,Nexus Mercantile Co.,356.02,568.49,16,5,20,8
+397,OFF-0397,Dual Monitor Arm Mod-725,Office Supplies,GlobalTech Distributing,354.52,567.81,125,66,88,15
+398,OFF-0398,Filing Cabinet 3-Drawer Mod-672,Office Supplies,Horizon Industrial Corp.,20.51,30.27,93,33,82,8
+399,OFF-0399,Ergonomic Desk Chair Mod-713,Office Supplies,Horizon Industrial Corp.,57.45,95.36,139,101,101,20
+400,OFF-0400,Dual Monitor Arm Mod-694,Office Supplies,Nordic Logistics & Trading,364.18,493.38,10,5,20,12
+401,OFF-0401,Desk Mat Large Mod-160,Office Supplies,Atlas Cargo & Imports,374.22,682.42,17,35,99,7
+402,OFF-0402,Document Scanner Mod-276,Office Supplies,Atlas Cargo & Imports,128.0,190.6,43,39,98,8
+403,OFF-0403,Paper Shredder 12-Sheet Mod-138,Office Supplies,Horizon Industrial Corp.,238.55,435.76,9,6,20,18
+404,OFF-0404,Label Printer Mod-994,Office Supplies,Horizon Industrial Corp.,138.81,225.64,135,71,83,17
+405,OFF-0405,Ergonomic Desk Chair Mod-346,Office Supplies,Nexus Mercantile Co.,389.43,650.01,9,8,49,3
+406,OFF-0406,Document Scanner Mod-598,Office Supplies,Atlas Cargo & Imports,164.59,232.6,52,44,67,13
+407,OFF-0407,Filing Cabinet 3-Drawer Mod-658,Office Supplies,Horizon Industrial Corp.,126.28,195.91,78,47,71,13
+408,OFF-0408,Ergonomic Desk Chair Mod-580,Office Supplies,Nordic Logistics & Trading,308.11,492.09,14,9,41,4
+409,OFF-0409,Gel Pen Box 24pc Mod-996,Office Supplies,Apex Supply Chain Solutions,17.79,34.1,69,30,65,9
+410,OFF-0410,Document Scanner Mod-116,Office Supplies,Summit Trading Group,58.51,105.84,3,39,87,9
+411,OFF-0411,Ergonomic Desk Chair Mod-673,Office Supplies,Vanguard Components Inc.,386.93,678.66,76,63,96,13
+412,OFF-0412,Label Printer Mod-921,Office Supplies,Prime Source International,244.76,453.21,31,15,20,21
+413,OFF-0413,Gel Pen Box 24pc Mod-844,Office Supplies,Summit Trading Group,207.47,302.92,19,5,20,5
+414,OFF-0414,Label Printer Mod-331,Office Supplies,Apex Supply Chain Solutions,406.58,598.52,465,233,331,14
+415,OFF-0415,Whiteboard 36x24 Mod-391,Office Supplies,Precision Dynamics Ltd.,294.56,410.75,136,77,90,17
+416,OFF-0416,Document Scanner Mod-832,Office Supplies,Nordic Logistics & Trading,105.29,164.29,13,9,30,6
+417,OFF-0417,Dual Monitor Arm Mod-942,Office Supplies,Atlas Cargo & Imports,162.68,310.32,99,87,92,19
+418,OFF-0418,Standing Desk Converter Mod-416,Office Supplies,Nexus Mercantile Co.,250.4,348.03,78,26,72,7
+419,OFF-0419,Filing Cabinet 3-Drawer Mod-579,Office Supplies,Atlas Cargo & Imports,343.26,466.41,75,38,82,9
+420,OFF-0420,Gel Pen Box 24pc Mod-541,Office Supplies,Vanguard Components Inc.,122.14,209.26,101,53,87,12
+421,OFF-0421,Gel Pen Box 24pc Mod-673,Office Supplies,Atlas Cargo & Imports,143.65,229.69,71,29,56,10
+422,OFF-0422,Whiteboard 36x24 Mod-336,Office Supplies,Apex Supply Chain Solutions,195.78,370.94,16,38,40,19
+423,OFF-0423,Standing Desk Converter Mod-495,Office Supplies,Nordic Logistics & Trading,371.25,648.09,53,20,47,8
+424,OFF-0424,Paper Shredder 12-Sheet Mod-777,Office Supplies,Nordic Logistics & Trading,289.28,446.85,60,33,40,16
+425,OFF-0425,Dual Monitor Arm Mod-889,Office Supplies,Atlas Cargo & Imports,300.59,552.77,74,35,86,8
+426,OFF-0426,Document Scanner Mod-968,Office Supplies,Precision Dynamics Ltd.,170.81,274.9,209,74,183,8
+427,OFF-0427,Paper Shredder 12-Sheet Mod-690,Office Supplies,GlobalTech Distributing,286.48,534.25,72,48,59,16
+428,OFF-0428,Whiteboard 36x24 Mod-866,Office Supplies,Summit Trading Group,448.3,827.23,15,3,20,8
+429,OFF-0429,Dual Monitor Arm Mod-751,Office Supplies,Atlas Cargo & Imports,10.53,17.16,50,38,49,15
+430,OFF-0430,Dual Monitor Arm Mod-558,Office Supplies,GlobalTech Distributing,354.41,598.85,87,20,78,5
+431,HCS-0431,Safety Vest Reflective Mod-213,Healthcare & Safety,Vanguard Components Inc.,344.94,473.73,18,3,20,5
+432,HCS-0432,Hand Sanitizer 1L Mod-952,Healthcare & Safety,Atlas Cargo & Imports,180.64,251.38,17,18,84,4
+433,HCS-0433,Nitrile Gloves Box Mod-375,Healthcare & Safety,Nordic Logistics & Trading,391.84,618.12,86,27,75,7
+434,HCS-0434,Digital Thermometer Mod-857,Healthcare & Safety,Vanguard Components Inc.,211.84,405.45,106,102,101,20
+435,HCS-0435,Ergonomic Back Brace Mod-821,Healthcare & Safety,Nexus Mercantile Co.,424.23,615.31,82,45,80,11
+436,HCS-0436,Ergonomic Back Brace Mod-950,Healthcare & Safety,Vanguard Components Inc.,289.09,494.22,88,83,82,20
+437,HCS-0437,Digital Thermometer Mod-503,Healthcare & Safety,Apex Supply Chain Solutions,352.36,604.59,96,38,92,8
+438,HCS-0438,Safety Vest Reflective Mod-189,Healthcare & Safety,Apex Supply Chain Solutions,261.09,395.87,14,6,20,10
+439,HCS-0439,Ergonomic Back Brace Mod-759,Healthcare & Safety,Nexus Mercantile Co.,37.41,55.68,29,9,20,18
+440,HCS-0440,Automated Defibrillator Trainer Mod-144,Healthcare & Safety,Nexus Mercantile Co.,94.92,170.14,64,23,90,5
+441,HCS-0441,Hand Sanitizer 1L Mod-333,Healthcare & Safety,Vanguard Components Inc.,283.2,547.72,111,75,93,16
+442,HCS-0442,Automated Defibrillator Trainer Mod-408,Healthcare & Safety,Summit Trading Group,183.02,320.58,25,6,20,16
+443,HCS-0443,Digital Thermometer Mod-170,Healthcare & Safety,Atlas Cargo & Imports,109.38,178.45,29,29,33,17
+444,HCS-0444,Pulse Oximeter Mod-904,Healthcare & Safety,Prime Source International,435.75,703.23,94,72,89,16
+445,HCS-0445,Safety Vest Reflective Mod-159,Healthcare & Safety,Atlas Cargo & Imports,121.36,189.71,26,11,30,7
+446,HCS-0446,N95 Respirator Box Mod-322,Healthcare & Safety,Apex Supply Chain Solutions,159.45,297.98,30,8,31,4
+447,HCS-0447,Hand Sanitizer 1L Mod-291,Healthcare & Safety,Horizon Industrial Corp.,353.01,540.87,36,24,25,19
+448,HCS-0448,Eye Wash Station Mod-924,Healthcare & Safety,Summit Trading Group,33.18,53.13,74,75,83,18
+449,HCS-0449,Safety Vest Reflective Mod-498,Healthcare & Safety,Atlas Cargo & Imports,146.73,245.45,25,9,20,11
+450,HCS-0450,Eye Wash Station Mod-830,Healthcare & Safety,GlobalTech Distributing,224.31,402.63,73,68,64,21
+451,HCS-0451,Nitrile Gloves Box Mod-326,Healthcare & Safety,Apex Supply Chain Solutions,62.47,110.52,69,33,66,10
+452,HCS-0452,First Aid Kit 200pc Mod-328,Healthcare & Safety,Horizon Industrial Corp.,258.94,439.57,68,24,77,6
+453,HCS-0453,Safety Vest Reflective Mod-892,Healthcare & Safety,Horizon Industrial Corp.,66.19,123.3,71,24,94,5
+454,HCS-0454,Digital Thermometer Mod-819,Healthcare & Safety,Horizon Industrial Corp.,274.9,466.22,17,23,55,8
+455,HCS-0455,Pulse Oximeter Mod-486,Healthcare & Safety,Vanguard Components Inc.,330.42,559.71,66,59,105,11
+456,HCS-0456,Hand Sanitizer 1L Mod-861,Healthcare & Safety,Precision Dynamics Ltd.,118.35,178.47,445,330,329,20
+457,HCS-0457,N95 Respirator Box Mod-816,Healthcare & Safety,Vanguard Components Inc.,75.21,122.22,18,17,32,10
+458,HCS-0458,Automated Defibrillator Trainer Mod-785,Healthcare & Safety,Nexus Mercantile Co.,99.73,148.89,14,8,20,19
+459,HCS-0459,Automated Defibrillator Trainer Mod-101,Healthcare & Safety,Horizon Industrial Corp.,198.05,338.3,20,11,20,16
+460,HCS-0460,Hand Sanitizer 1L Mod-705,Healthcare & Safety,GlobalTech Distributing,28.09,48.82,56,48,79,12
+461,HCS-0461,Hand Sanitizer 1L Mod-570,Healthcare & Safety,Precision Dynamics Ltd.,131.08,244.04,21,11,20,14
+462,HCS-0462,Digital Thermometer Mod-819,Healthcare & Safety,Prime Source International,156.52,255.04,59,50,99,10
+463,HCS-0463,First Aid Kit 200pc Mod-206,Healthcare & Safety,Nexus Mercantile Co.,96.33,133.25,78,12,77,3
+464,HCS-0464,Hand Sanitizer 1L Mod-952,Healthcare & Safety,Nexus Mercantile Co.,418.68,662.52,165,132,125,21
+465,HCS-0465,Nitrile Gloves Box Mod-326,Healthcare & Safety,Nordic Logistics & Trading,160.53,219.62,14,12,20,21
+466,HCS-0466,First Aid Kit 200pc Mod-105,Healthcare & Safety,Nordic Logistics & Trading,93.0,142.05,74,23,73,6
+467,HCS-0467,First Aid Kit 200pc Mod-398,Healthcare & Safety,Precision Dynamics Ltd.,433.81,588.32,128,66,82,16
+468,HCS-0468,Pulse Oximeter Mod-849,Healthcare & Safety,Nexus Mercantile Co.,146.42,272.3,242,54,359,3
+469,HCS-0469,Safety Vest Reflective Mod-571,Healthcare & Safety,Apex Supply Chain Solutions,418.45,580.43,210,113,160,14
+470,HCS-0470,Automated Defibrillator Trainer Mod-753,Healthcare & Safety,Prime Source International,411.65,602.51,154,75,135,11
+471,HCS-0471,Safety Vest Reflective Mod-109,Healthcare & Safety,Nordic Logistics & Trading,407.73,750.4,39,26,29,17
+472,HCS-0472,Nitrile Gloves Box Mod-792,Healthcare & Safety,Atlas Cargo & Imports,324.97,605.64,34,27,86,6
+473,HCS-0473,Automated Defibrillator Trainer Mod-467,Healthcare & Safety,Vanguard Components Inc.,202.51,362.05,22,11,20,19
+474,HCS-0474,Hand Sanitizer 1L Mod-545,Healthcare & Safety,Vanguard Components Inc.,59.68,104.99,20,3,20,17
+475,HCS-0475,Hand Sanitizer 1L Mod-988,Healthcare & Safety,Atlas Cargo & Imports,249.64,472.18,8,26,84,6
+476,HCS-0476,Hand Sanitizer 1L Mod-838,Healthcare & Safety,Horizon Industrial Corp.,239.23,423.39,120,66,70,19
+477,HCS-0477,Hand Sanitizer 1L Mod-989,Healthcare & Safety,GlobalTech Distributing,213.08,302.83,19,3,20,11
+478,HCS-0478,Digital Thermometer Mod-548,Healthcare & Safety,Nexus Mercantile Co.,22.34,38.99,35,26,33,15
+479,HCS-0479,Ergonomic Back Brace Mod-831,Healthcare & Safety,Atlas Cargo & Imports,358.76,491.17,37,9,44,4
+480,HCS-0480,N95 Respirator Box Mod-956,Healthcare & Safety,Vanguard Components Inc.,210.4,312.64,67,27,45,12
+481,HCS-0481,Hand Sanitizer 1L Mod-434,Healthcare & Safety,Vanguard Components Inc.,41.79,78.88,58,36,37,19
+482,HCS-0482,Eye Wash Station Mod-752,Healthcare & Safety,Vanguard Components Inc.,376.89,589.83,5,8,20,16
+483,HCS-0483,Ergonomic Back Brace Mod-608,Healthcare & Safety,Vanguard Components Inc.,129.88,191.25,329,270,284,19
+484,HCS-0484,Digital Thermometer Mod-125,Healthcare & Safety,GlobalTech Distributing,145.82,218.71,90,23,75,6
+485,HCS-0485,Automated Defibrillator Trainer Mod-483,Healthcare & Safety,Summit Trading Group,234.44,425.31,188,72,287,5
+486,HCS-0486,N95 Respirator Box Mod-774,Healthcare & Safety,Atlas Cargo & Imports,376.47,692.25,80,36,55,13
+487,HCS-0487,Pulse Oximeter Mod-899,Healthcare & Safety,Precision Dynamics Ltd.,190.62,334.63,23,26,30,17
+488,HCS-0488,Safety Vest Reflective Mod-286,Healthcare & Safety,Precision Dynamics Ltd.,193.28,280.43,14,6,20,10
+489,HCS-0489,Nitrile Gloves Box Mod-586,Healthcare & Safety,Apex Supply Chain Solutions,399.69,763.64,13,11,20,18
+490,HCS-0490,Eye Wash Station Mod-329,Healthcare & Safety,Apex Supply Chain Solutions,27.03,49.16,53,45,60,15
+491,HCS-0491,Ergonomic Back Brace Mod-733,Healthcare & Safety,Precision Dynamics Ltd.,347.51,573.49,0,26,45,11
+492,HCS-0492,N95 Respirator Box Mod-105,Healthcare & Safety,Nexus Mercantile Co.,25.36,38.37,372,107,355,6
+493,HCS-0493,First Aid Kit 200pc Mod-908,Healthcare & Safety,Nordic Logistics & Trading,160.85,281.91,21,14,20,18
+494,HCS-0494,Eye Wash Station Mod-614,Healthcare & Safety,Prime Source International,274.76,479.65,28,20,34,11
+495,HCS-0495,Eye Wash Station Mod-182,Healthcare & Safety,GlobalTech Distributing,143.79,241.26,43,29,37,15
+496,HCS-0496,Nitrile Gloves Box Mod-685,Healthcare & Safety,Atlas Cargo & Imports,45.18,71.65,186,101,124,16
+497,HCS-0497,Digital Thermometer Mod-877,Healthcare & Safety,Nordic Logistics & Trading,111.87,206.75,5,6,20,19
+498,HCS-0498,Digital Thermometer Mod-943,Healthcare & Safety,Prime Source International,193.48,267.07,309,258,258,20
+499,HCS-0499,Eye Wash Station Mod-755,Healthcare & Safety,Horizon Industrial Corp.,353.47,543.72,117,62,81,15
+500,HCS-0500,Ergonomic Back Brace Mod-741,Healthcare & Safety,Atlas Cargo & Imports,129.66,230.23,107,84,98,17
+501,HCS-0501,Safety Vest Reflective Mod-991,Healthcare & Safety,Vanguard Components Inc.,106.03,163.34,36,29,32,18
+502,HCS-0502,Ergonomic Back Brace Mod-960,Healthcare & Safety,GlobalTech Distributing,44.92,66.33,29,11,29,7
+503,HCS-0503,N95 Respirator Box Mod-530,Healthcare & Safety,Precision Dynamics Ltd.,79.32,134.3,4,6,20,8
+504,HCS-0504,Digital Thermometer Mod-323,Healthcare & Safety,Apex Supply Chain Solutions,33.05,45.31,81,62,81,15
+505,HCS-0505,Ergonomic Back Brace Mod-320,Healthcare & Safety,Precision Dynamics Ltd.,399.65,754.3,65,45,43,21
+506,HCS-0506,N95 Respirator Box Mod-338,Healthcare & Safety,Prime Source International,70.37,118.04,197,86,131,13
+507,HCS-0507,Eye Wash Station Mod-935,Healthcare & Safety,Apex Supply Chain Solutions,21.27,34.39,20,21,34,12
+508,HCS-0508,Pulse Oximeter Mod-540,Healthcare & Safety,GlobalTech Distributing,390.82,595.48,42,45,75,12
+509,HCS-0509,Safety Vest Reflective Mod-884,Healthcare & Safety,Summit Trading Group,421.02,742.45,4,3,20,6
+510,HCS-0510,Digital Thermometer Mod-706,Healthcare & Safety,Vanguard Components Inc.,401.34,780.68,57,26,42,12
+511,HCS-0511,Eye Wash Station Mod-891,Healthcare & Safety,Precision Dynamics Ltd.,53.46,76.21,13,9,20,15
+512,HCS-0512,Pulse Oximeter Mod-589,Healthcare & Safety,Vanguard Components Inc.,425.22,769.43,148,50,121,8
+513,HCS-0513,Eye Wash Station Mod-543,Healthcare & Safety,Atlas Cargo & Imports,111.13,191.72,48,15,42,7
+514,HCS-0514,Ergonomic Back Brace Mod-284,Healthcare & Safety,Precision Dynamics Ltd.,318.01,450.96,20,2,20,4
+515,HCS-0515,Nitrile Gloves Box Mod-687,Healthcare & Safety,Atlas Cargo & Imports,14.05,19.66,1,6,27,4
+516,HCS-0516,N95 Respirator Box Mod-507,Healthcare & Safety,Horizon Industrial Corp.,138.8,242.66,5,3,20,14
